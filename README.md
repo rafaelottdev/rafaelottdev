@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/duribeiro">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=DevRafaelott&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRafaelott&theme=midnight-purple&hide_border=false&&layout=compact"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DevRafaelott&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRafaelott&theme=midnight-purple&hide_border=false&&layout=compact"/>
 </div>
 
 <div>

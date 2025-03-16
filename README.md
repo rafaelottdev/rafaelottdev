@@ -29,19 +29,18 @@ ___
 
 ### 📊 Estatisticas
 
-<p>
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelottdev&show_icons=true&theme=vision-friendly-dark&locale=pt-br" 
     alt="GitHub Stats" 
     align="left" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     height="200px" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelottdev&layout=compact&theme=vision-friendly-dark&custom_title=Tecnologias" 
     alt="GitHub Stats" 
-    align="left" 
-    style="padding-right: 10px;" 
+    align="left"
     height="200px" />
-</p>
+</div>
 
 
 

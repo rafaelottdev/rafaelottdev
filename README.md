@@ -29,7 +29,7 @@ ___
 
 ### 📊 Estatisticas
 
-<div>
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelottdev&show_icons=true&theme=vision-friendly-dark&locale=pt-br" 
     alt="GitHub Stats" 
     align="left" 
@@ -41,7 +41,7 @@ ___
     align="left" 
     style="padding-right: 10px;" 
     height="200px" />
-</div>
+</p>
 
 
 

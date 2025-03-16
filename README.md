@@ -31,14 +31,14 @@ ___
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelottdev&show_icons=true&theme=vision-friendly-dark&locale=pt-br" 
-    alt="GitHub Stats" 
-    align="left" 
-    height="170px"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelottdev&layout=compact&theme=vision-friendly-dark&custom_title=Tecnologias" 
     alt="GitHub Stats"
-    align="left"
-    height="170px" />
+    height="170px"
+    align="left" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelottdev&layout=compact&theme=vision-friendly-dark&custom_title=Tecnologias&hide=Text" 
+    alt="GitHub Stats"
+    height="170px"
+    align="left" />
 </div>
 
 

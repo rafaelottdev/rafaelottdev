@@ -5,7 +5,7 @@ Meu nome é Rafael tenho 22 anos e estudo programação faz 3 anos
 <div>
   <a href="https://rafaelott-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-E23237?style=for-the-badge&logo=angularjs&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/rafael-ott-8435572b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Curriculo-FAAB00?style=for-the-badge&logo=angularjs&logoColor=white" target="_blank"></a> 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Curriculo-FAAB00?style=for-the-badge&logo=angularjs&logoColor=white" target="_blank"></a> 
 </div>
 
 <br />

@@ -22,7 +22,6 @@ Meu nome é Rafael tenho 22 anos e estudo programação faz 3 anos
   <img align="center" alt="Rafa-Rt" heigh="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Rafa-nxt" heigh="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Rafa-vue" heigh="28" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Rafa-Ts" height="25" width="30" src="https://www.svgrepo.com/show/303210/figma-1-logo.svg">
 </div>
 
 <br />

@@ -30,6 +30,8 @@ Meu nome é Rafael tenho 22 anos e estudo programação faz 3 anos
 
 <img align="center" alt="Rafa-nxt" heigh="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> NextJs
 
+Repositorio: https://github.com/rafaelottdev/estudos-nextjs
+
 <br />
 
 ### 🙋 Projeto Em Destaque: CinemidiaTv

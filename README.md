@@ -13,15 +13,15 @@ Meu nome é Rafael tenho 22 anos e estudo programação faz 3 anos
 ### 📚 Habilidades 
 
 <div style="display: inline_block">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Bt" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Rafa-Ss" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Rafa-Rt" heigh="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="Rafa-nxt" heigh="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="Rafa-vue" heigh="28" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  <a href="https://github.com/rafaelottdev/estudos-html-css"><img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="https://github.com/rafaelottdev/estudos-html-css"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href="https://github.com/rafaelottdev/estudos-bootstrap"><img align="center" alt="Rafa-Bt" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /></a>
+  <a href="https://github.com/rafaelottdev/estudos-sass"><img align="center" alt="Rafa-Ss" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /></a>
+  <a href="https://github.com/rafaelottdev/estudos-javascript"><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://github.com/rafaelottdev/estudos-typescript"><img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
+  <a href="https://github.com/rafaelottdev/estudos-react"><img align="center" alt="Rafa-Rt" heigh="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
+  <a href="https://github.com/rafaelottdev/estudos-nextjs"><img align="center" alt="Rafa-nxt" heigh="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></a>
+  <a href="https://github.com/rafaelottdev/estudos-vue"><img align="center" alt="Rafa-vue" heigh="28" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /></a>
 </div>
 
 <br />
